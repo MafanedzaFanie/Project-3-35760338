@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelemetryPortal_MVC", "TelemetryPortal_MVC\TelemetryPortal_MVC.csproj", "{41999BF9-9822-4C5E-A22C-CBBE210FC987}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C568DEB6-AEEA-4507-BE17-8D0B6E1744D9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41999BF9-9822-4C5E-A22C-CBBE210FC987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41999BF9-9822-4C5E-A22C-CBBE210FC987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41999BF9-9822-4C5E-A22C-CBBE210FC987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41999BF9-9822-4C5E-A22C-CBBE210FC987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B9FE23C-EB29-4FD6-9F46-BCF382007062}
+	EndGlobalSection
+EndGlobal
