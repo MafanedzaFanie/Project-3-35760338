@@ -37,4 +37,7 @@ Here is a list of all resources used to complete this project:
 + Once registered you will be able to see to all the Tech Trends available at NWU.
 
 ## Web App URL
+https://telemetryportalmvcmafanedza.azurewebsites.net
 
+## Resource Group URL
+https://portal.azure.com/#@nwuac.onmicrosoft.com/resource/subscriptions/4518c73e-ffcc-4821-9457-023e3f2a6f3d/resourceGroups/rgProject2API/overview 
